@@ -1,60 +1,89 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harsh+Pandey;Full-stack+Developer+%7C+AI-assisted+Workflows" alt="Typing introduction" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/HarshPandey2"><img src="https://komarev.com/ghpvc/?username=HarshPandey2&label=Profile%20views&color=0969da&style=flat" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/harsh-pandey-9b77a7313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harshpandey29951@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HarshPandey2&label=VISITORS&color=2F81F7&style=flat-square" alt="Profile visitors" />
+  <h1>👋 Hey, I'm Harsh Pandey</h1>
+  <h3>Full Stack Developer | AI Developer</h3>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+with+code+and+AI;Turning+ideas+into+useful+products" alt="Typing introduction" />
+  <br /><br />
+  <a href="https://github.com/HarshPandey2"><img src="https://img.shields.io/badge/GITHUB-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/harsh-pandey-9b77a7313"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshpandey29951@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br />
 
-## About Me
+## 🧑‍💻 About Me
 
-Full-stack developer building web applications, REST APIs, and AI-assisted data-extraction workflows. I work with JavaScript, Python, Next.js, FastAPI, and databases, with a strong foundation in OOP, DBMS, and DSA.
+I am a full-stack developer with hands-on experience building web applications, REST APIs, and AI-assisted data-extraction workflows using JavaScript, Python, Next.js, FastAPI, and databases.
 
-- Based in Bengaluru, India
-- Pursuing a B.E. in Information Science and Engineering at JSS Academy of Technical Education, VTU (2023-2027)
-- Solved 120+ DSA problems across competitive programming platforms
+I enjoy building practical products that connect AI capabilities with reliable frontend and backend systems. I am currently pursuing a B.E. in Information Science and Engineering at JSS Academy of Technical Education, VTU.
 
-## Experience
+## 🚀 Featured Projects
 
-### Software Development Intern - KaratPlus Jeweltech Pvt. Ltd.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💎 Jewelry Catalog Extraction System</h3>
+      <p>AI-assisted pipeline that extracts structured jewelry specifications from images across 130+ catalog items and 200+ designs. It combines OCR with regex fallback rules and connects results to catalog and admin interfaces.</p>
+      <img src="https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/GEMINI_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+      <img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=flat-square" alt="Tesseract OCR" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ SIGA Fair Registration &amp; Entry Management</h3>
+      <p>Event registration, QR-based entry verification, and badge-generation workflows for 2,500+ attendees, with business-card OCR lead capture and payment-gated registration.</p>
+      <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/EXPRESS.JS-222222?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/RAZORPAY-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+    </td>
+  </tr>
+</table>
 
-**Bengaluru, India | Feb 2026 - Apr 2026**
+<br />
 
-- Developed AI/OCR image-processing workflows that structured data for 130+ jewelry items across 200+ designs.
-- Connected extracted results to frontend and backend admin features to reduce manual data entry.
+## 🔗 🛠️ Tech Stack
 
-### Software Development Intern - South India Garments Association (SIGA)
+### Languages
 
-**Bengaluru, India | Apr 2026 - Jul 2026**
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 
-- Built registration, QR-based entry verification, and lead-capture tools for a three-day fair with 2,500+ attendees.
-- Supported real-time check-in and on-site visitor data capture with event operations.
+### AI / OCR
 
-## Featured Projects
+<img src="https://img.shields.io/badge/GEMINI_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=flat-square" alt="Tesseract OCR" />
+<img src="https://img.shields.io/badge/AI--ASSISTED_WORKFLOWS-6F42C1?style=flat-square" alt="AI-assisted workflows" />
 
-### Jewelry Catalog Extraction System
+### Frontend
 
-**Next.js · FastAPI · MongoDB · Gemini AI · Tesseract OCR · Python**
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+<img src="https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/RESPONSIVE_DESIGN-2F81F7?style=flat-square" alt="Responsive web design" />
 
-AI-assisted pipeline that extracts structured jewelry specifications from images across 130+ catalog items and 200+ designs. It combines OCR with regex fallback rules and connects results to catalog and admin interfaces.
+### Backend &amp; APIs
 
-### SIGA Fair Registration & Entry Management System
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/EXPRESS.JS-222222?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/REST_APIS-007ACC?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT_AUTHENTICATION-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
 
-**Node.js · Express.js · SQLite · JWT · Gemini OCR · Instamojo · Razorpay**
+### Databases &amp; Tools
 
-Event registration, QR entry verification, and badge generation workflows for 2,500+ attendees, with business-card OCR lead capture and payment-gated registration.
-
-## Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,sqlite,git,github,vscode,postman,npm&perline=10" alt="Technology skills" />
-  </a>
-</div>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GITHUB-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 
 <br />
 
@@ -69,19 +98,6 @@ Event registration, QR entry verification, and badge generation workflows for 2,
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPandey2&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPandey2&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F" alt="Most used languages" />
-  </picture>
-</div>
-
-## Certifications
-
-- Web Development - IBM SkillsBuild
-- Generative AI Professional Certification - Oracle
-- Healthcare Management - Great Learning
-
 ## Contribution Graph
 
 <picture>
@@ -89,7 +105,3 @@ Event registration, QR entry verification, and badge generation workflows for 2,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshPandey2/HarshPandey2/output/github-snake.svg" />
   <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/HarshPandey2/HarshPandey2/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-  <sub>Open to software development opportunities and collaboration.</sub>
-</div>
