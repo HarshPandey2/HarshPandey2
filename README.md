@@ -5,7 +5,6 @@
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+with+code+and+AI;Turning+ideas+into+useful+products" alt="Typing introduction" />
   <br /><br />
-  <a href="https://github.com/HarshPandey2"><img src="https://img.shields.io/badge/GITHUB-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/harsh-pandey-9b77a7313"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:harshpandey29951@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -28,8 +27,8 @@ I enjoy building practical products that connect AI capabilities with reliable f
       <img src="https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/GEMINI_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-      <img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=flat-square" alt="Tesseract OCR" />
+      <img src="https://img.shields.io/badge/GEMINI_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI" />
+      <img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=flat-square&logo=readthedocs&logoColor=white" alt="Tesseract OCR" />
     </td>
     <td width="50%" valign="top">
       <h3>🎟️ SIGA Fair Registration &amp; Entry Management</h3>
@@ -57,14 +56,14 @@ I enjoy building practical products that connect AI capabilities with reliable f
 
 ### AI / OCR
 
-<img src="https://img.shields.io/badge/GEMINI_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-<img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=flat-square" alt="Tesseract OCR" />
+<img src="https://img.shields.io/badge/GEMINI_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=flat-square&logo=readthedocs&logoColor=white" alt="Tesseract OCR" />
 <img src="https://img.shields.io/badge/AI--ASSISTED_WORKFLOWS-6F42C1?style=flat-square" alt="AI-assisted workflows" />
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
-<img src="https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;
 <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/RESPONSIVE_DESIGN-2F81F7?style=flat-square" alt="Responsive web design" />
 
@@ -78,11 +77,10 @@ I enjoy building practical products that connect AI capabilities with reliable f
 
 ### Databases &amp; Tools
 
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GITHUB-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 
 <br />
@@ -97,11 +95,3 @@ I enjoy building practical products that connect AI capabilities with reliable f
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=HarshPandey2&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=24292F&dates=57606A&stroke=00000000" alt="Harsh's contribution streak" />
   </picture>
 </div>
-
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshPandey2/HarshPandey2/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshPandey2/HarshPandey2/output/github-snake.svg" />
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/HarshPandey2/HarshPandey2/output/github-snake.svg" />
-</picture>
