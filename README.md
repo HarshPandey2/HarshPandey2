@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshPandey2&label=VISITORS&color=2F81F7&style=flat-square" alt="Profile visitors" />
   <h1>👋 Hey, I'm Harsh Pandey</h1>
   <h3>Full Stack Developer | AI Developer</h3>
   <br />
@@ -44,7 +43,7 @@ I enjoy building practical products that connect AI capabilities with reliable f
 
 <br />
 
-## ??? Tech Stack
+## Tech Stack
 
 ### Languages
 
