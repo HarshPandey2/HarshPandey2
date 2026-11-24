@@ -44,44 +44,31 @@ I enjoy building practical products that connect AI capabilities with reliable f
 
 <br />
 
-## 🔗 🛠️ Tech Stack
+## ??? Tech Stack
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-### AI / OCR
+### AI / Machine Learning / LLMs
 
-<img src="https://img.shields.io/badge/GEMINI_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI" />
-<img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=flat-square&logo=readthedocs&logoColor=white" alt="Tesseract OCR" />
-<img src="https://img.shields.io/badge/AI--ASSISTED_WORKFLOWS-6F42C1?style=flat-square" alt="AI-assisted workflows" />
+<img src="https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />&nbsp;<img src="https://img.shields.io/badge/TESSERACT_OCR-5A5A5A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Tesseract OCR" />
+
+### Backend & APIs
+
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;<img src="https://img.shields.io/badge/EXPRESS.JS-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;<img src="https://img.shields.io/badge/REST_APIS-007ACC?style=for-the-badge" alt="REST APIs" />&nbsp;<img src="https://img.shields.io/badge/JWT_AUTH-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
+
+### Databases, Search & ORMs
+
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;
-<img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/RESPONSIVE_DESIGN-2F81F7?style=flat-square" alt="Responsive web design" />
+<img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React.js" />&nbsp;<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;<img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
-### Backend &amp; APIs
+### Tools & Engineering
 
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/EXPRESS.JS-222222?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/REST_APIS-007ACC?style=flat-square" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JWT_AUTHENTICATION-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
-
-### Databases &amp; Tools
-
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
 <br />
 
